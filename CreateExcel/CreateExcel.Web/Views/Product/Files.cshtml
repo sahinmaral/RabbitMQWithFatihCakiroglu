@@ -1,0 +1,46 @@
+﻿@model List<UserFile>
+
+@{
+    ViewData["Title"] = "Files";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Scripts
+{
+     <script>
+        $(document).ready(function () {
+            var hasStartCreatingExcel = '@TempData["StartCreatingExcel"]';
+            if (hasStartCreatingExcel) {
+                toastr.info('Excel oluşturma işlemi başlamıştır. Bittiğinde bildiri alacaksınız')
+            }
+        })
+     </script>
+}
+
+<h1>Files</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">FileName</th>
+            <th scope="col">CreatedAt</th>
+            <th scope="col">FileStatus</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var userFile in Model)
+        {
+            <tr>
+                <th scope="row">@userFile.FileName</th>
+                <td>@userFile.GetCreatedAt</td>
+                <td>@userFile.FileStatus</td>
+                <td>
+                    <a href="~/files/@userFile.FilePath" 
+                    class="btn btn-primary 
+                    @(userFile.FileStatus == FileStatus.Created ? "disabled" : "")">Download</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

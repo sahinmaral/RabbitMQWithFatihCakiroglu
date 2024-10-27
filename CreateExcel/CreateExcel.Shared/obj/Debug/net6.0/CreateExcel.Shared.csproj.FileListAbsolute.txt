@@ -1,0 +1,11 @@
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\bin\Debug\net6.0\CreateExcel.Shared.deps.json
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\bin\Debug\net6.0\CreateExcel.Shared.dll
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\bin\Debug\net6.0\CreateExcel.Shared.pdb
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\obj\Debug\net6.0\CreateExcel.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\obj\Debug\net6.0\CreateExcel.Shared.AssemblyInfoInputs.cache
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\obj\Debug\net6.0\CreateExcel.Shared.AssemblyInfo.cs
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\obj\Debug\net6.0\CreateExcel.Shared.csproj.CoreCompileInputs.cache
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\obj\Debug\net6.0\CreateExcel.Shared.dll
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\obj\Debug\net6.0\refint\CreateExcel.Shared.dll
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\obj\Debug\net6.0\CreateExcel.Shared.pdb
+C:\Users\sahinmaral\Desktop\RabbitMQWithFatihCakiroglu\CreateExcel\CreateExcel.Shared\obj\Debug\net6.0\ref\CreateExcel.Shared.dll
